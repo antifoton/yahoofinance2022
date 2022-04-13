@@ -1,0 +1,1 @@
+web: setup.sh && streamlit run 1_Yahoo_Finance_Stocks.py
