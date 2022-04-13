@@ -1,0 +1,1 @@
+# yahoofinance2022
